@@ -1,5 +1,5 @@
 # GC-MS/MS Data Processing Pipeline
-# Author: [Your Name]
+# Author: Nikita Denisov
 # Description: Computes calibration curves and concentrations for labelled and unlabelled metabolites.
 
 # Libraries ----
